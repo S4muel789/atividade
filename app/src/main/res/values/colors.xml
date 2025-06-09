@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Cores específicas do app -->
+    <color name="blue_start">#FF2E4A87</color>
+    <color name="blue_center">#FF1E3A77</color>
+    <color name="blue_end">#FF0E2A67</color>
+    <color name="light_gray">#FFF5F5F5</color>
+    <color name="nav_selected">#FF2E4A87</color>
+    <color name="nav_unselected">#FF666666</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="text_hint">#FF9E9E9E</color>
+    <color name="green_accent">#FF4CAF50</color>
+    <color name="gray_light">#FFE0E0E0</color>
+    <color name="light_blue_background">#FFF3F7FF</color>
+    <color name="gold_accent">#FFD4AF37</color>
+    <color name="blue_claro">#1976D2</color>
+    <color name="primary_color_dark">#1976D2</color>
+    <color name="primary_color_dak">#1565C0</color>
+    <color name="danger_color">#D32F2F</color>
+    <color name="success_color">#388E3C</color>
+    <color name="warning_color">#F57C00</color>
+    <color name="navr_selected">#1976D2</color>
+    <color name="navr_unselected">#757575</color>
+    <!-- Cores de Status -->
+    <color name="status_resolvida">#C8E6C9</color>    <!-- Verde claro -->
+    <color name="status_pendente">#FFF3E0</color>     <!-- Laranja claro -->
+    <color name="status_invalida">#FFCDD2</color>     <!-- Vermelho claro -->
+    <color name="status_default">#F5F5F5</color>      <!-- Cinza claro -->
+
+    <!-- Cores Principais -->
+    <color name="primary_color">#1976D2</color>
+</resources>
+

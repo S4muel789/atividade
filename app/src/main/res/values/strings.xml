@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">atividade</string>
+    <string name="sobre">Sobre</string>
+    <string name="in_cio">Início</string>
+    <string name="munic_pio_selecionado_s">Município selecionado: %s</string>
+    <string name="munic_pio_selecionado">"Município selecionado: "</string>
+    <string name="nome_do_munic_pio">Nome do Município</string>
+    <string name="ouvidoria_mt_mp_br">OUVIDORIA@Mt.MP.BR</string>
+</resources>
