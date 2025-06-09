@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity
-            android:name=".Gerenciar.java"
+            android:name=".ManifescaoGerenciar"
             android:exported="false" />
         <activity
             android:name=".GerenciarManifestacao"

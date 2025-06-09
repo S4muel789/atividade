@@ -6,4 +6,6 @@
     <string name="munic_pio_selecionado">"Município selecionado: "</string>
     <string name="nome_do_munic_pio">Nome do Município</string>
     <string name="ouvidoria_mt_mp_br">OUVIDORIA@Mt.MP.BR</string>
+    <string name="atualizar_lista_de_manifesta_es">🔄 Atualizar Lista de Manifestações</string>
+    <string name="sair_do_sistema">🚪 Sair do Sistema</string>
 </resources>
